@@ -5,4 +5,4 @@
 - 💬 Ask me about ... Anything
 - :incoming_envelope: How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shanon-fritz/)
 - :sparkling_heart: Fun fact: ... I really love pandas.
-- :hammer: Skills ... Java, JavaScript, HTML, CSS, Python
+- :hammer: Skills ... Java, JavaScript, HTML, CSS, Python, React, Redux
